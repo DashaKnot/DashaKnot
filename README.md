@@ -8,7 +8,7 @@
 
 
 
-<p align="center"><a href="https://dashaknot.github.io"><img width="80%" alt="Hello, I'm Daria!" src="./assets/gh-readme-header.gif" /></a></p>
+#<p align="center"><a href="https://dashaknot.github.io"><img width="80%" alt="Hello, I'm Daria!" src="./assets/gh-readme-header.gif" /></a></p>
 
 <br />
 
