@@ -1,7 +1,7 @@
 
 
 <h2 align='center'></h2>
-<img width=100% title="Привет, я Даша! 👋" alt="Привет, я Даша! 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Привет_я_Даша!👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="Привет, я Даша! 👋" alt="Привет, я Даша! 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Привет, я Даша!👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h2 align="center"><br>
    About me 
