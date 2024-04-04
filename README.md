@@ -1,3 +1,24 @@
+
+
+<h2 align='center'></h2>
+<img width=100% title="Hey there! 👋" alt="Hey there! 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey_there!👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<h2 align="center"><br>
+   About me 
+</h2>
+
+<div>
+    I'm a full-stack web developer more proficient in backend and cloud development, who started off his FOSS journey in June, 2020. As a Sophomore and Computer Science student, I am building some notesworthy projects while being a full-time developer at <a href="https://mlsakiit.com">MLSA</a> and <a href="https://dsckiit.in">GDSC</a>. To know more about me, checkout my <a href="https://yashvs.me">Portfolio</a>!
+<div>
+<br>
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://dashaknot.github.io"><img width="80%" alt="Hello, I'm Daria!" src="./assets/gh-readme-header.gif" /></a></p>
 
 <br />
