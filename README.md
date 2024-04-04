@@ -3,14 +3,6 @@
 <h2 align='center'></h2>
 <img width=100% title="Привет, я Даша! 👋" alt="Привет, я Даша! 👋" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=I'm_Daria!👋&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<h2 align="center"><br>
-   About me 
-</h2>
-
-<div>
-    I'm a full-stack web developer more proficient in backend and cloud development, who started off his FOSS journey in June, 2020. As a Sophomore and Computer Science student, I am building some notesworthy projects while being a full-time developer at <a href="https://mlsakiit.com">MLSA</a> and <a href="https://dsckiit.in">GDSC</a>. To know more about me, checkout my <a href="https://yashvs.me">Portfolio</a>!
-<div>
-<br>
 
 
 
@@ -54,3 +46,13 @@ I'm a self-taught Python developer from Russia
 <a href="https://codesandbox.io/u/dashaknot">
   <img align="right" alt="Daria Knot | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/dashaknot/dashaknot/master/assets/codesandbox.svg" />
 </a>
+
+
+<img width=100% title="" alt=""  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<div align='center'>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=pythonicboat&label=Profile%20Views&color=1&icon=0&pretty=false" />
+</a>
+</div>
+
+
